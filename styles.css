@@ -1,0 +1,32 @@
+body{
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  text-align: center;
+  align-items: center;
+
+}
+.Nav{
+    background-color: aquamarine;
+    border: 5px solid black;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+}
+button{
+background-color: aqua;
+  color: black;
+  border: 20; 
+  padding: 10px 20px;
+  border-radius: 10px; 
+  cursor: pointer;
+}
+.id{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.incdec{
+    display: flex;
+    font-size: 16px;
+    align-items: center;
+    justify-content: center;
+}
