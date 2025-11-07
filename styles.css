@@ -30,3 +30,10 @@ background-color: aqua;
     align-items: center;
     justify-content: center;
 }
+.btnbox{
+  width: 50%;
+  border: 3px solid aqua;
+  background-color: black;
+  margin-left: 400px;
+  
+}
